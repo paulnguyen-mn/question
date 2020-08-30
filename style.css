@@ -31,6 +31,9 @@ li {
     align-items: center;
     position: relative;
     padding: 8px;
+    background-color: #666;
+    border: 1px solid black;
+    margin: 8px 0;
 }
 
 .section {
